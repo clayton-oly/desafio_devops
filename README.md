@@ -41,8 +41,10 @@ O arquivo `main.tf` define os seguintes recursos na AWS:
 
 ### Passos
 
+## Como clonar este repositório
+
 1. Clone este repositório:
 
    ```bash
-   git clone (https://github.com/clayton-oly/desafio_devops.git)
-   cd <diretório do repositório>
+   git clone https://github.com/clayton-oly/desafio_devops.git
+   cd desafio_devops
